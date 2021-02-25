@@ -1,0 +1,68 @@
+<style>
+    
+
+    body {
+        background-color: black;
+    }
+
+    h1 {
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    h2 {
+        color: white;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    h3 {
+        color: red;
+    }
+
+    .intro {
+        color: orange;
+    }
+
+    .intro2 {
+        color: white;
+        text-align: center;
+    }
+
+    ul {
+        color: blue;
+        font-weight: bold;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    .center2 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    th {
+        color: white;
+    }
+
+    td {
+        color: white;
+    }
+
+    div {
+        text-align: center;
+        widows: 100%;
+    }
+    iframe {
+        width: 1000px;
+    }
